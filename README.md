@@ -81,7 +81,7 @@ new_session.load("my_session")      # restores all anchors
 
 | Feature | Free (`dwa10-memory`) | Pro ([zulfr.com](https://zulfr.com/dwa10-pro)) |
 |---|---|---|
-| In-session anchor memory | ✅ | ✅ |
+| In-session anchor memory  | ✅ | ✅ |
 | P0/P1/P2 priority classes | ✅ | ✅ |
 | Utility-density context packing | ✅ | ✅ |
 | Rolling summaries | ✅ | ✅ |
@@ -104,4 +104,4 @@ new_session.load("my_session")      # restores all anchors
 
 ## License
 
-MIT © [Zulfr](https://zulfr.com)
+Apache 2.0 © [Zulfr](https://zulfr.com)
